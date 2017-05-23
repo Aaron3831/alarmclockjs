@@ -5,6 +5,7 @@ function Moment(hour, minute){
 
 Moment.prototype.alarm = function (alarm) {
 
+
 };
 
 exports.alarmClock = Moment;
